@@ -1,0 +1,93 @@
+[
+    {
+        "id": "e6cb36a8-048c-4875-a4b6-0125df313c3b",
+        "description": "Rome - a perfect place to stay with a family",
+        "name": "Rome",
+        "pictures": [
+            {
+                "src": "https://20.objects.pages.academy/static/destinations/5.jpg",
+                "description": "Rome with crowded streets"
+            },
+            {
+                "src": "https://20.objects.pages.academy/static/destinations/16.jpg",
+                "description": "Rome for those who value comfort and coziness"
+            },
+            {
+                "src": "https://20.objects.pages.academy/static/destinations/6.jpg",
+                "description": "Rome middle-eastern paradise"
+            }
+        ]
+    },
+    {
+        "id": "1694b50e-832a-4f2b-b8d8-ac161be57186",
+        "description": "Vien - a true asian pearl",
+        "name": "Vien",
+        "pictures": [
+            {
+                "src": "https://20.objects.pages.academy/static/destinations/6.jpg",
+                "description": "Vien famous for its crowded street markets with the best street food in Asia"
+            },
+            {
+                "src": "https://20.objects.pages.academy/static/destinations/19.jpg",
+                "description": "Vien middle-eastern paradise"
+            }
+        ]
+    },
+    {
+        "id": "17a09a21-faf7-413d-b90a-6a66bf148e1b",
+        "description": "Kioto - a perfect place to stay with a family",
+        "name": "Kioto",
+        "pictures": [
+            {
+                "src": "https://20.objects.pages.academy/static/destinations/18.jpg",
+                "description": "Kioto for those who value comfort and coziness"
+            },
+            {
+                "src": "https://20.objects.pages.academy/static/destinations/14.jpg",
+                "description": "Kioto is a beautiful city"
+            },
+            {
+                "src": "https://20.objects.pages.academy/static/destinations/3.jpg",
+                "description": "Kioto for those who value comfort and coziness"
+            }
+        ]
+    },
+    {
+        "id": "538f7bc8-5107-4e70-9996-201f4d076ca2",
+        "description": "Kioto - with crowded streets",
+        "name": "Kioto",
+        "pictures": [
+            {
+                "src": "https://20.objects.pages.academy/static/destinations/20.jpg",
+                "description": "Kioto a true asian pearl"
+            },
+            {
+                "src": "https://20.objects.pages.academy/static/destinations/9.jpg",
+                "description": "Kioto a perfect place to stay with a family"
+            },
+            {
+                "src": "https://20.objects.pages.academy/static/destinations/12.jpg",
+                "description": "Kioto for those who value comfort and coziness"
+            },
+            {
+                "src": "https://20.objects.pages.academy/static/destinations/9.jpg",
+                "description": "Kioto full of of cozy canteens where you can try the best coffee in the Middle East"
+            }
+        ]
+    },
+    {
+        "id": "012a5ad0-75c9-43c6-94b2-fd564305b5c2",
+        "description": "Barcelona - in a middle of Europe",
+        "name": "Barcelona",
+        "pictures": [
+            {
+                "src": "https://20.objects.pages.academy/static/destinations/20.jpg",
+                "description": "Barcelona a perfect place to stay with a family"
+            },
+            {
+                "src": "https://20.objects.pages.academy/static/destinations/16.jpg",
+                "description": "Barcelona for those who value comfort and coziness"
+            }
+        ]
+    }
+]
